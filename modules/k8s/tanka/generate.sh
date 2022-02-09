@@ -2,6 +2,8 @@
 
 set -e
 
+# Adding a comment
+
 LC_COLLATE=C
 
 APP="$1"
